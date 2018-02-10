@@ -1,0 +1,35 @@
+$color: #262828;
+
+body {
+  color: $color;
+}
+
+h2{
+	color: red;
+}
+
+.detallesvisita {
+    float: right;
+    border: 3px solid #73AD21;
+
+    background-color: #b0e0e6;
+    
+}
+
+.titulo {
+	font-weight: bold;
+	font-size: 250%;
+}
+.subtitulo {
+	font-weight: bold;
+	font-size: 170%;
+}
+
+.lista{
+	list-style-type: none;
+}
+
+.imagen{
+	height: 110px;
+    width: 30%;
+}
